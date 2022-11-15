@@ -18,3 +18,10 @@ cd to directory and run
 ```sh
 python run.py
 ```
+
+
+![Screenshot](one.JPG)
+
+
+
+![Screenshot](two.JPG)
